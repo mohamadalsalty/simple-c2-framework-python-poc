@@ -1,7 +1,7 @@
 # Simple C2 framework
 
 ## Overview
-
+![Screenshot](c2.png)
 This project is a Command and Control (C2) system designed for Linux. It consists of a server and agents that communicate to execute commands and monitor the status of the agents.
 
 ## Features
